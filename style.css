@@ -83,3 +83,16 @@ body {
 	color: red;
 	visibility: hidden;
 }
+
+footer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: fixed;
+	background-color: #1f2d3d;
+	color: #fafafa;
+	height: 50px;
+	bottom: 0;
+	right: 0;
+	left: 0;
+}
